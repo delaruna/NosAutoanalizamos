@@ -1,0 +1,229 @@
+			Fecha	Fecha de nacimiento en formato 29-01-2001															
+			Identificación	Usuario de correo UV. martsobm															
+		19	Age	Edad en años.															
+			Sex	Sexo de nacimiento: F/M															
+		30	Wr.Hnd	Distancia del extremo del meñique al extremo del pulgar de la mano con la que escribimos. (en centímetros) PALMO															
+			NW.Hnd	Mano con la que escribes: Izquierda, Derecha															
+			Fold	Cruza los brazos. Qué brazo está arriba ?: Izquierdo, Derecho															
+		95	Pulse	Cuál es tu ritmo cardíaco, en reposo, en latidos por minuto.															
+			Clap 	Aplaude. ¿Cómo están las manos ?. 3 casos. 'Der s Izd', (Derecha sobre izquierda) ' Izq s Der', 'Ninguna'															
+			Smoke	Fumas: Si / No															
+			Height	Altura (en centímetros)															
+			ALG	Calificación numérica obtenida en álgebra. Usa NA para no presentado y NC, para no compensable, si procede, o la nota numérica con un decimal (7,8)															
+			ANM	Calificación numérica obtenida en análisis matemático. Usa NA para no presentado y NC, para no compensable, si procede, o la nota numérica con un decimal (7,8)															
+			FP	Calificación numérica obtenida en fundamentos de programación. Usa NA para no presentado y NC, para no compensable, si procede, o la nota numérica con un decimal (7,8)															
+			DCS	Calificación numérica obtenida en Datos Ciencia y Sociedad. Usa NA para no presentado y NC, para no compensable, si procede, o la nota numérica con un decimal (7,8)															
+			MD	Calificación numérica obtenida en Matemática Discreta. Usa NA para no presentado y NC, para no compensable, si procede, o la nota numérica con un decimal (7,8)															
+			HSt	Horas de trabajo DIARIAS relacionadas con los estudios, además de la asistencia a clase. 															
+			Hwork	¿Tienes un trabajo remunerado además del estudio ?. Indica las horas de trabajo SEMANALES. 0 indica que no tiene otro trabajo.															
+			Comentarios	OBLIGATORIO: Campo de texto libre para incluir comentarios que consideres sobre la asignatura. 															
+				Vuestos comentarios ayudarán a mejorar y permitirán procesar texto.															
+				La primera fila es un ejemplo de registro de datos															
+			NO DEJÉIS FILAS LIBRES																
+																			
+			 ES IMPORTANTE QUE LOS DATOS INCLUIDOS SEAN REALES PARA  PODER OBTENER CONCLUSIONES																
+			Completa una fila de esta tabla con tus datos. Los utilizaréis para hacer un autoanálisis.																
+FechaNac(DD-MM-YYY)	Id	Age	Sex	Wr.Hnd	NW.Hnd	Fold	Pulse	Clap	Exer	Smoke	Height	ALG	ANM	FP	DCS	MD	HSt	Hwork	Comentarios
+20-01-1969	martsobm	55	M	22	Derecha	Izquierdo	65	Der s Izq	2	No	178	NP	7	6	4	3,8	5	37,5	Seguro que este grupo es el mejor que he tenido hasta ahora. Los datos son la electricidad del siglo XXI. En TD aprenderemos a manejarlos y extraer información de los mismos.
+24-10-2005	tasacar	18	M	23	Derecha	Derecho	54	Izq s Der	4	No	186	6,6	7,5	NC	NC	6	2	0	Me está gustando la asignatura, es muy práctica. Me gustan los cursos de datacamp.
+04-08-2004	garfre	19	F	16	Derecha	Izquierdo	44	Izq s Der	2	No	160	NC	NC	NC	NC	NC	2	0	El Tratamiento de Datos es importante
+22-10-2001	iamarso	22	M	22	Izquierda	Izquierdo	50	Izq s Der	2	No	179	7,5	7,5	NC	8,5	7,4	2	0	Asignatura fascinante
+24-03-2006	nieua	17	M	20	Derecha	Derecho	68	Der s Izq		No	177	6,5	7,2	NC	NC	8	2	0	Asignatura potente
+9-10-2002	icuaruiz	21	M		Derecha	Izquierdo	65	Der s Izq	2	No	178	6,8	7,2	7,7	6,9	7,3	1	0	A priori, tiene buena pinta la asignatura con una buena prroyección a futuro.
+21-02-2005	heclehe	18	M	21	Derecha	Izquierdo	70	Izq s Der		No	180	2	4,8		8,1	6,8	2	0	Asignatura práctica y útil
+3-5-2002	segufe	21	M		Derecha	Derecho	60	Der s Izq		No	174	7,4	8	7,8	NC	8,2	1	0	Bacano, todo muy interesante
+23-10-2005	lumarval	18	F	18	Derecha	Derecho	72	Izq s Der	3	Si	165	6,9	7,7	NC	8,1	7,7	2	0	Asignartura muy útil
+18-04-2005	pausicru	18	F	17	Derecha	Izquierda	84	Izq s Der		Si	164	2	6,83	NC	9,2	7,4	1	0	Asignatura necesaria para el futuro
+02-02-2005	igomas	19	F	17	Derecha	Izquierda	80	Izq s Der		No	168	0,8	6,8	NC	NC	7,8	2	0	Asignatura práctica
+14-02-2004	franpaz2	19	M	17	Derecha	Izquierdo	80	Izq s Der		No	176	2,1	4,9	NC	NC	6,1	3	0	Asignatura importante para la posterior aplicación en el mundo profesional
+23-06-2004	jajusda	19	F	18	Derecha	Izquierdo	72	Der s Izq		No	170	NC	NC	NC	NC	NC	4	0	El Tratamiento de Datos es importante en el grado de ciencia de datos.
+01-05-2004	asanpa6	19	M	17	Izquierda	Izquierdo	67	Der s Izq	3	No	165	1,9	3,3	3,6	NC	4	1	0	Buena asignatura para aprender sobre el mundo de los datos
+27-8-2004	alzari	19	M	20	Derecha	Izquierda	75	Der s Izq	5	No	186	5,3	7,1	5,1	7,9	5,2	2	0	Asignatura importante
+06-01-2004	arjucan	20	M	20	Derecha	Izquierda	78	Der s Izq	4	No	170	4	5,2		7,5	6,2	1	0	Asignatura aplicable a la vida laboral
+11-03-2004	lualo2	19	M	20	Derecha	Izquierda	74	Der s Izq		No	175	4	7	5	7	6	2	0	Asignatura
+07-03-2004	macaspe4	19	F	17	Derecha	Izquierdo	70	Izq s Der	3	No	155	6,8	7,3	6,3	6,1	7,4	2	0	asignatura de analisis de los datos
+01-12-2004	sanloll2	19	F	17	Derecha	Izquierda	69	Izq s Der	5	No	160	7	9	6	7	7,5	3	0	Relevancia del análisis y tratamiento de los datos
+13-11-2003	negana	20	F	17	Derecha	Derecho	92	Der s Izq		No	155	NA	NA	NA	NA	8,3	4	25	En el TD es imprescindible el análisis y conocimiento preciso de los datos.
+22-12-2004	huluma 	19	M	18	Izquierda	Derecho	70	Der s Izq		Si	177	7	5	5	6	5	5	0	Asignatura importante para nuestro futuro laboral
+10-01-2005	camares4	19	F	16	Derecha	Izquierdo	68	Der s Izq	4	No	164	7	7,1	NC	9,6	8	2	0	Me parece muy útil que la asignatura se centre más en la parte práctica
+03-03-2005	rosemi	18	M	20	Derecha	Izquierdo	78	Der s Izq		No	180	9	6'8	7	8,5	9'5	3	0	Nos enseña a hacer el primer paso y uno de los más importantes (que es tratar los datos), en el proceso de análisis de datos.
+25-7-2003	reorjo	20	M	20	Derecha	Izquierdo	73	Izq s Der		No	177	NP	NP	NP	6,2	6,5	1	0	Asignatura que hay que llevar al día
+23-10-2005	papons3	18	M	20	Derecha	Izquierdo	60	Der s Izq	2	No	186	6,2	NC	5,8	7,2	7.8	1	0	Asignatura útil para ser científico de datos
+2-6-2005	marbaud	18	M	18	Derecha	Izquierdo	45	Der s Izq		No	176	3,4	5.3	5	7	6.0	1.5	9	Me parece intersesante conocer las herramientes del R pero de una dificultad alta
+25-07-2005	nacasil	18	M	21	Derecha	Derecho	68	Der s Izq		No	175	7,6	7,5	5	8,5	7,7	2	6	Asignatura importante para la carrera que hay que llevar al dia
+25-09-2005	berper2	18	M	21	Derecha	Izquierdo	64	Izq s Der		No	178	8,1	5,8	7,2	8,5	7,2	1	0	Asignatura esencial para poder ejercer como científico de datos
+03-12-2005	macajen	18	F	20	Derecha	Derecho	67	Der s Izq		No	160	7	6,4	6,2	NC	6,9	2	0	Asignatura importante y que conviene llevarla al dia
+17-04-2005	narcaro	18	M	20	Derecha	Izquierdo	70	IZQ s Der	4	No	174	9	8.9	7	NC	9.2	1	0	Asignatura fundamental para el desarrollo profesional como científico de datos
+17-12-2005	cavero7	18	M	22	Derecha	Izquierdo	53	Der s Izq	5	No	186	NC	6.15	7.6	8.5	7.3	2.5	0	Asignatura que aprece muy útil para concoer las bases de la Ciencia de Datos y de la programación en R  ( parece importante repasar y practicar  R  frecuentemente)
+14-10-2005	rusiepun	18	M	21	Derecha	Izquierdo	60	Der s Izq	4	No	180	7	7	6	8.4	7.4	2	0	Asignatura que conviene llevarla al día
+31-03-2005	aldalgar	18	M	21	Derecha	Derecho	54	der s izq	5	no	178	7,7	4,9		5,8	5,7	2	0	tenemos que llevar la asignatura al dia
+04-04-2005	fememom	18	M	21	Izquierda	Derecho	60	Izq s Der	5	No	180	7,2	6,3	5.9	7,5	7,1	1.5	0	Asignatura que parece ser muy útil
+18-07-2005	romibre	18	M	22	Derecha	Derecho	85	Ninguno		No	165	7	6,2	NC		NP	1.5	8,4	Asignatura con gran porcentaje de suspendidos y programación en R
+06-12-2005	ricamda	18	M	26	Derecha	Derecho	68	Der s Izq	6	No	178	8.4	6.4	6.7	8.8	8	1.5	8	Asignatura que hay que repasar con frecuencia
+22-6-2005	dapuer2	18	M	23	Derecha	Derecho	72	Izq s Der	2	No	181	6,2	4,8	5,8	6,5	7,4	2	0	
+26-10-2005	magaro25	18	F		Derecha	Derecho	72	Der Izq		No	157	NC	6	6,1	8,1	7,4	2	0	Asignatura que nos dará buena base para el futuro
+13-05-2005	jorgarpo	18	M		Derecha	Derecho	66	Der s Izq	3	Si	171	4,5	4,5			8	3	0	Asignatura interesante
+02-05-2004	vicalpa	19	M	21	Derecha	Derecho	70	Der s Izq	2	No	183	5,1	5	6	6,2	5,4	1	0	Asignatura importante
+16-08-2005	evitop	18	M	22	Derecha	Izquierdo	72	Izq s Der	2	No	186	7,8	6,7	7,2	7,8	8,1	1	0	Asignatura esencial para ser buenos cientificos de datos
+14-03-2005	delaruna	18	M	23	Derecha	Derecho	65	Der s Izq	5	No	184	7,5	NC	6,2	7,5	8,7	1.5	0	Asignatura parecida a DCS, por lo que es importante. 
+15-11-2004	paquepey	19	M	23	Derecha	Izquierdo	69	Der s Izq	4	No	191	NC	6.3	6.9	NC	6.1	1	18	Me gusta
+13-05-2005	caloju	18	F	20	Derecha	Izquierdo	70	Izq s Der		Si	169	NC	5,7	5,9	7,8	6,9	2	0	Asignatura muy relevante para la carrera. 
+01-06-2005	vaemega	18	F	20	Derecha	Izquierdo	69	Der s Izq		No	168	NC	4,8	6,2	8,6	7,4	2	0	Asignatura muy útil 
+23-05-2005	began	18	F	14	Derecha	Derecho	67	Der s Izq	2	No	167	NC	NC	NA	8,1	7	3	0	Asignatura interesante
+24-02-2005	malado2	18	F	14	Derecha	Derecho	68	Der s Izq		No	170	NA	6,3	6,3	8,4	7	2	0	Asignatura similar a DCS, se profundiza mucho en R
+03-05-2005	urcafa	18	F	13	Izquierda	Izquierdo	48	Izq s Der		Si	169	NC	7,6	6,2	7,6	7,7	3	3	Asignatura que enseña R a nivel avanzado
+26-03-2002	serta2	21	M	21	Izquierda	Izquierdo	52	Izq s Der	6	No	175	9	9.1	6.8	7.7	8.7	3	0	Asignatura muy importante de este curso ya que asienta las bases de los siguientes para ser unos buenos científicos de datos
+22-03-2003	pasicar	20	M	20	Derecha	Derecho	83	Izq s Der	4	No	176	NC	NC	6	7	6	3	24	A la tercera va la vencida
+07-03-2005	hugarfol	18	M	20	Derecha	Derecho	79	Izq s Der		No	171	NC	5,6	6	NC	7,5	4	0	Da un poco de respeto pero parece muy útil.
+08-05-2005	juriol	18	F	17	Derecha	Derecho	60	Der s Izq		No	165	NC	6,7	5,7	6,9	7	4	0	Asignatura importante para ser un buen científico de datos
+11-01-2005	mafecas	19	F	17	Derecha	Derecho	59	Der s Izq		No	163	NC	4,8	5,1	4	6,4	3	0	Asignatura importante y difícil
+03-05-2005	ayusre	18	M	21	Derecha	Derecho	60	Der s Izq		No	182	NC	NC	5,1	NC	NC	1	24	Asignatura complicada que hay que llevar al día
+28-07-2004	robomo	19	F	16	Derecha	Derecho	62	Der s Izq		No	165	NC	4,1	5,7	4	6,5	3	No	Asignatura importante 
+12-07-2005	sermutmo	18	M	20	Izquierda	Izquierdo	63	Izq s Der		No	179	    NC	4	NC	NC	5,5	2	No	Asignatura que hay que llevar con rutina
+10-02-2005	carmam23	19	M	21	Derecha	Derecho	62	Ninguna	5	No	185	7,6	6,11	7,4	8,1	7,7	2	0	Asignatura interesante
+01-04-2000	joyke	23	F	18	Derecha	derecha	60	ninguna	4	no	160	6.3	6.3	8	5	7	6	0	Asignatura importante para ser un buen científico de datos
+28-7-2003	szol	20	F	18	Derecha	Derecha	60	Izq s Der		No	160	1.9	4.5	2	4	7	2	0	asignatura imporyanye para python y los algoritmos y futura de un cientifico de datos
+06-12-2005	balhec	18	M	20	Derecha	Derecha	83	Izq s Der	4	No	176	NC	NC	5,3	5,6	NC	2	0	Exploracion sobre la eficiencia de los codigos propios
+08-06-2005	arema5	18	M	20	Derecha	Derecha	81	Izq s Der		No	186	NC	8	8,4	9,4	7,1	3	8	Asignatura muy práctica
+17-12-2005	gargagui	18	M	21	Derecha	Izquierdo	75	Ninguna		No	178	8	8	8	6	8	3	0	Asignatura muy interesante y necesaria
+18-02-2005	belpelau	18	F	18	Derecha	Izquierdo	73	Der s Izq		No	171	3,9	6,7	5,8	4	7,7	3	No	Asignatura muy interesentante que hay que llevarla al día
+12-03-2005	lorente8	18	F	16	Derecha	Izquierdo	65	Der s Izq		No	167	6,5	NC	6,1	NC	6,8	2	No	Asignatura muy práctica
+24-05-2004	sermarya	19	M	18	Derecha	Derecho	71	Izq s Der		Si	177	6	5	7	5	6	2	0	Asignatura esencial para el futuro de nuestra carrera
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+			Exer	Cuántos días a la semana realizas ejercicio físico. Numérica de 0-7															
